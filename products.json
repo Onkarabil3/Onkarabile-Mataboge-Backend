@@ -4,23 +4,23 @@
     "name": "Snail flower pot",
     "category": "products",
     "price": 120.0,
-    "image": "\images\snail flower pot.webp",
+    "image": "assets/images/black vase.jpeg",
     "description": "A classic strategy guide by Sun Tzu."
   },
   {
-    "id": "b002",
-    "name": "Clean Code",
-    "category": "Books",
+    "id": "V2",
+    "name": "Sleepingbeauty",
+    "category": "products",
     "price": 450.0,
-    "image": "assets/images/clean-code.jpg",
+    "image": "assets/image/sleeping beauty pot.avif",
     "description": "A handbook of agile software craftsmanship."
   },
   {
-    "id": "e101",
+    "id": "V3",
     "name": "Wireless Bluetooth Headphones",
-    "category": "Electronics",
+    "category": "products",
     "price": 899.99,
-    "image": "assets/images/headphones.jpg",
+    "image": "assets/image\rounded pot.jpg",
     "description": "Noise-cancelling over-ear headphones."
   },
   {
@@ -62,7 +62,7 @@
     "price": 1099.0,
     "image": "assets/images/gaming-keyboard.jpg",
     "description": "RGB backlit mechanical keyboard for gamers."
-  }
+  },
   {
     "id": "g502",
     "name": "Mechanical Gaming Keyboard",
