@@ -24,11 +24,11 @@
     "description": "Noise-cancelling over-ear headphones."
   },
   {
-    "id": "e102",
-    "name": "Smart Watch",
-    "category": "Electronics",
+    "id": "F1",
+    "name": "Cutiess flower",
+    "category": "Flowers",
     "price": 1299.0,
-    "image": "assets/images/smartwatch.jpg",
+    "image": "assets/images/cuties flowers.jpeg",
     "description": "Multifunctional smartwatch with fitness tracking."
   },
   {
