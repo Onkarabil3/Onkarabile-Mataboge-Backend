@@ -12,7 +12,7 @@
     "name": "Sleepingbeauty",
     "category": "products",
     "price": 450.0,
-    "image": "assets/image/sleeping beauty pot.avif",
+    "image": "assets/images/sleeping beauty pot.jpeg",
     "description": "A handbook of agile software craftsmanship."
   },
   {
@@ -20,7 +20,7 @@
     "name": "Rounded Pot",
     "category": "products",
     "price": 899.99,
-    "image": "assets/image\rounded pot.jpg",
+    "image": "assets/images/rounded pot.jpg",
     "description": "Noise-cancelling over-ear headphones."
   },
   {
