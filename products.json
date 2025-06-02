@@ -17,7 +17,7 @@
   },
   {
     "id": "V3",
-    "name": "Wireless Bluetooth Headphones",
+    "name": "Rounded Pot",
     "category": "products",
     "price": 899.99,
     "image": "assets/image\rounded pot.jpg",
@@ -32,43 +32,43 @@
     "description": "it is a beautiful watch and stuff."
   },
   {
-    "id": "c301",
-    "name": "Graphic T-Shirt",
-    "category": "Clothes",
+    "id": "F2",
+    "name": "Gloden Green",
+    "category": "Flowers",
     "price": 199.0,
-    "image": "assets/images/tshirt.jpg",
+    "image": "assets/images/golden green flowers.webp",
     "description": "100% cotton t-shirt with a cool print."
   },
   {
-    "id": "c302",
-    "name": "Denim Jeans",
-    "category": "Clothes",
+    "id": "F3",
+    "name": "Protea Flowers",
+    "category": "Flowers",
     "price": 399.0,
-    "image": "assets/images/jeans.jpg",
+    "image": "assets/images/protea flowers.jpg",
     "description": "Comfortable and durable blue jeans."
   },
   {
-    "id": "g501",
-    "name": "Gaming Mouse RGB",
-    "category": "Gaming",
+    "id": "F4",
+    "name": "Purple Flowers",
+    "category": "Flowers",
     "price": 599.99,
-    "image": "assets/images/gaming-mouse.jpg",
+    "image": "assets/images/purple flowers.jpeg",
     "description": "High DPI gaming mouse with customizable lights."
   },
   {
-    "id": "g502",
-    "name": "Mechanical Gaming Keyboard",
-    "category": "Gaming",
+    "id": "F5",
+    "name": "Panic flowers",
+    "category": "Flowers",
     "price": 1099.0,
-    "image": "assets/images/gaming-keyboard.jpg",
+    "image": "assets/images/panic flowers.webp",
     "description": "RGB backlit mechanical keyboard for gamers."
   },
   {
-    "id": "g502",
-    "name": "Mechanical Gaming Keyboard",
-    "category": "Gaming",
+    "id": "F6",
+    "name": "Sunflower smiles",
+    "category": "Flowers",
     "price": 1099.0,
-    "image": "assets/images/gaming-keyboard.jpg",
+    "image": "assets/images/sunflower_smiles.jpg",
     "description": "RGB backlit mechanical keyboard for gamers."
   }
 ]
