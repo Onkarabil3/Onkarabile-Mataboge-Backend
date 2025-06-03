@@ -1,11 +1,11 @@
 [
   {
     "id": "V1",
-    "name": "Snail flower pot",
+    "name": "Black Vase",
     "category": "products",
     "price": 120.0,
     "image": "assets/images/black vase.jpeg",
-    "description": "A classic strategy guide by Sun Tzu."
+    "description": "A classic black vase that adds a modern touch of elegance and depth to your space."
   },
   {
     "id": "V2",
@@ -13,7 +13,7 @@
     "category": "products",
     "price": 450.0,
     "image": "assets/images/sleeping beauty pot.jpeg",
-    "description": "A handbook of agile software craftsmanship."
+    "description": "A charming sleeping face pot that brings character and personality to your flower arrangements."
   },
   {
     "id": "V3",
@@ -21,7 +21,39 @@
     "category": "products",
     "price": 899.99,
     "image": "assets/images/rounded pot.jpg",
-    "description": "Noise-cancelling over-ear headphones."
+    "description": "A sleek rounded pot designed to complement the natural curves of your floral displays."
+  },
+  {
+    "id": "V4",
+    "name": "Snail flower pot",
+    "category": "products",
+    "price": 450.0,
+    "image": "assets/images/snail flower pot.webp",
+    "description": "A whimsical snail-shaped flower pot that adds charm and playfulness to any garden or indoor space"
+  },
+  {
+    "id": "V5",
+    "name": "Flower food",
+    "category": "products",
+    "price": 450.0,
+    "image": "assets/images/flower food.jpg",
+    "description": "A nutrient-rich formula designed to keep your flowers fresh, vibrant, and blooming longer."
+  },
+  {
+    "id": "V6",
+    "name": " Mini Fleur Food",
+    "category": "products",
+    "price": 450.0,
+    "image": "assets/images/mini fleur food.webp",
+    "description": "A compact and powerful flower food perfect for small bouquets and indoor arrangements."
+  },
+  {
+    "id": "V7",
+    "name": "Gro Flower Liquid",
+    "category": "products",
+    "price": 450.0,
+    "image": "assets/images/miracle gro flower liquid food.jpg",
+    "description": "A premium liquid plant food that promotes healthy growth and vibrant blooms in all flowering plants."
   },
   {
     "id": "F1",
@@ -29,7 +61,7 @@
     "category": "Flowers",
     "price": 1299.0,
     "image": "assets/images/cuties flowers.jpeg",
-    "description": "it is a beautiful watch and stuff."
+    "description": "A stunning floral arrangement that's as lovely and charming as a thoughtful gift should be."
   },
   {
     "id": "F2",
@@ -37,7 +69,7 @@
     "category": "Flowers",
     "price": 199.0,
     "image": "assets/images/golden green flowers.webp",
-    "description": "100% cotton t-shirt with a cool print."
+    "description": "A vibrant bouquet of fresh green-hued flowers, perfect for adding a touch of nature indoors."
   },
   {
     "id": "F3",
@@ -45,7 +77,7 @@
     "category": "Flowers",
     "price": 399.0,
     "image": "assets/images/protea flowers.jpg",
-    "description": "Comfortable and durable blue jeans."
+    "description": "An exotic and striking arrangement of protea flowers, known for their bold appearance and long-lasting freshness."
   },
   {
     "id": "F4",
@@ -53,7 +85,7 @@
     "category": "Flowers",
     "price": 599.99,
     "image": "assets/images/purple flowers.jpeg",
-    "description": "High DPI gaming mouse with customizable lights."
+    "description": "Elegant and soothing purple blooms that bring a sense of calm and beauty to any space."
   },
   {
     "id": "F5",
@@ -61,7 +93,7 @@
     "category": "Flowers",
     "price": 1099.0,
     "image": "assets/images/panic flowers.webp",
-    "description": "RGB backlit mechanical keyboard for gamers."
+    "description": "A unique floral arrangement with a dramatic blend of colors, ideal for bold expressions and special occasions."
   },
   {
     "id": "F6",
@@ -69,6 +101,6 @@
     "category": "Flowers",
     "price": 1099.0,
     "image": "assets/images/sunflower_smiles.jpg",
-    "description": "RGB backlit mechanical keyboard for gamers."
+    "description": "Bright and cheerful sunflowers arranged to bring warmth, positivity, and a radiant smile to anyone's day."
   }
 ]
