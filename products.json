@@ -4,7 +4,7 @@
     "name": "Black Vase",
     "category": "products",
     "price": 120.0,
-    "image": "assets/images/black vase.jpeg",
+    "image": "assets/images/blackvase.jpeg",
     "description": "A classic black vase that adds a modern touch of elegance and depth to your space."
   },
   {
@@ -12,15 +12,15 @@
     "name": "Sleepingbeauty",
     "category": "products",
     "price": 450.0,
-    "image": "assets/images/sleeping beauty pot.jpeg",
+    "image": "assets/images/sleeping beautypot.jpeg",
     "description": "A charming sleeping face pot that brings character and personality to your flower arrangements."
   },
   {
     "id": "V3",
     "name": "Rounded Pot",
     "category": "products",
-    "price": 899.99,
-    "image": "assets/images/rounded pot.jpg",
+    "price": 99.99,
+    "image": "assets/images/roundedpot.jpg",
     "description": "A sleek rounded pot designed to complement the natural curves of your floral displays."
   },
   {
@@ -28,78 +28,78 @@
     "name": "Snail flower pot",
     "category": "products",
     "price": 450.0,
-    "image": "assets/images/snail flower pot.webp",
+    "image": "assets/images/snailflowerpot.webp",
     "description": "A whimsical snail-shaped flower pot that adds charm and playfulness to any garden or indoor space"
   },
   {
     "id": "V5",
     "name": "Flower food",
     "category": "products",
-    "price": 450.0,
-    "image": "assets/images/flower food.jpg",
+    "price": 110.0,
+    "image": "assets/images/flowerfood.jpg",
     "description": "A nutrient-rich formula designed to keep your flowers fresh, vibrant, and blooming longer."
   },
   {
     "id": "V6",
     "name": " Mini Fleur Food",
     "category": "products",
-    "price": 450.0,
-    "image": "assets/images/mini fleur food.webp",
+    "price": 50.0,
+    "image": "assets/images/minifleurfood.webp",
     "description": "A compact and powerful flower food perfect for small bouquets and indoor arrangements."
   },
   {
     "id": "V7",
     "name": "Gro Flower Liquid",
     "category": "products",
-    "price": 450.0,
-    "image": "assets/images/miracle gro flower liquid food.jpg",
+    "price": 230.0,
+    "image": "assets/images/miraclegroflowerliquidfood.jpg",
     "description": "A premium liquid plant food that promotes healthy growth and vibrant blooms in all flowering plants."
   },
   {
     "id": "F1",
     "name": "Cutiess flower",
     "category": "Flowers",
-    "price": 1299.0,
-    "image": "assets/images/cuties flowers.jpeg",
+    "price": 300.0,
+    "image": "assets/images/cutiesflowers.jpeg",
     "description": "A stunning floral arrangement that's as lovely and charming as a thoughtful gift should be."
   },
   {
     "id": "F2",
     "name": "Gloden Green",
     "category": "Flowers",
-    "price": 199.0,
-    "image": "assets/images/golden green flowers.webp",
+    "price": 199.99,
+    "image": "assets/images/goldengreenflowers.webp",
     "description": "A vibrant bouquet of fresh green-hued flowers, perfect for adding a touch of nature indoors."
   },
   {
     "id": "F3",
     "name": "Protea Flowers",
     "category": "Flowers",
-    "price": 399.0,
-    "image": "assets/images/protea flowers.jpg",
+    "price": 500.0,
+    "image": "assets/images/proteaflowers.jpg",
     "description": "An exotic and striking arrangement of protea flowers, known for their bold appearance and long-lasting freshness."
   },
   {
     "id": "F4",
     "name": "Purple Flowers",
     "category": "Flowers",
-    "price": 599.99,
-    "image": "assets/images/purple flowers.jpeg",
+    "price": 299.99,
+    "image": "assets/images/purpleflowers.jpeg",
     "description": "Elegant and soothing purple blooms that bring a sense of calm and beauty to any space."
   },
   {
     "id": "F5",
     "name": "Panic flowers",
     "category": "Flowers",
-    "price": 1099.0,
-    "image": "assets/images/panic flowers.webp",
+    "price": 199.99,
+    "image": "assets/images/panicflowers.webp",
     "description": "A unique floral arrangement with a dramatic blend of colors, ideal for bold expressions and special occasions."
   },
   {
     "id": "F6",
     "name": "Sunflower smiles",
     "category": "Flowers",
-    "price": 1099.0,
+    "price": 399.99,
     "image": "assets/images/sunflower_smiles.jpg",
     "description": "Bright and cheerful sunflowers arranged to bring warmth, positivity, and a radiant smile to anyone's day."
   }
