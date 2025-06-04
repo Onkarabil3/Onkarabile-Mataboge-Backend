@@ -2,7 +2,7 @@
   {
     "id": "V1",
     "name": "Black Vase",
-    "category": "products",
+    "category": "Products",
     "price": 120.0,
     "image": "assets/images/blackvase.jpeg",
     "description": "A classic black vase that adds a modern touch of elegance and depth to your space."
@@ -10,7 +10,7 @@
   {
     "id": "V2",
     "name": "Sleepingbeauty",
-    "category": "products",
+    "category": "Products",
     "price": 450.0,
     "image": "assets/images/sleepingbeautypot.jpeg",
     "description": "A charming sleeping face pot that brings character and personality to your flower arrangements."
@@ -18,7 +18,7 @@
   {
     "id": "V3",
     "name": "Rounded Pot",
-    "category": "products",
+    "category": "Products",
     "price": 99.99,
     "image": "assets/images/roundedpot.jpg",
     "description": "A sleek rounded pot designed to complement the natural curves of your floral displays."
@@ -26,7 +26,7 @@
   {
     "id": "V4",
     "name": "Snail flower pot",
-    "category": "products",
+    "category": "Products",
     "price": 450.0,
     "image": "assets/images/snailflowerpot.webp",
     "description": "A whimsical snail-shaped flower pot that adds charm and playfulness to any garden or indoor space"
@@ -34,7 +34,7 @@
   {
     "id": "V5",
     "name": "Flower food",
-    "category": "products",
+    "category": "Products",
     "price": 110.0,
     "image": "assets/images/flowerfood.jpg",
     "description": "A nutrient-rich formula designed to keep your flowers fresh, vibrant, and blooming longer."
@@ -42,7 +42,7 @@
   {
     "id": "V6",
     "name": " Mini Fleur Food",
-    "category": "products",
+    "category": "Products",
     "price": 50.0,
     "image": "assets/images/minifleurfood.webp",
     "description": "A compact and powerful flower food perfect for small bouquets and indoor arrangements."
@@ -50,7 +50,7 @@
   {
     "id": "V7",
     "name": "Gro Flower Liquid",
-    "category": "products",
+    "category": "Products",
     "price": 230.0,
     "image": "assets/images/miraclegroflowerliquidfood.jpg",
     "description": "A premium liquid plant food that promotes healthy growth and vibrant blooms in all flowering plants."
